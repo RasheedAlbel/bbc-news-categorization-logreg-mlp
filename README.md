@@ -2,7 +2,7 @@
 
 > Classifying BBC news articles into 5 topic categories using traditional ML and neural network approaches.
 
-**Course:** MATH 103.1 | **Date:** November 2025  
+**Course:** Predictive Modeling for Text | **Date:** November 2025  
 **Authors:** Rasheed Albel, Christian Paraan, Ada Plata
 
 ---
